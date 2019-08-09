@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bc59ad5-a92f-475c-ba8c-27d716c93eb5/deploy-status)](https://app.netlify.com/sites/github-finder-react-reynard/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
